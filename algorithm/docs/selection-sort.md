@@ -19,11 +19,12 @@
 * 最后排序结果：13 27 38 49 65 76 97
 
 ## 复杂度
-* 时间:O(n^2) 最坏：O(n^2)  最好:O(n)有序时
-* 空间:O(1)
+* 平均时间复杂度:O(n^2) 
+* 额外空间复杂度:O(1)
 * 稳定性:不稳定
 
 ## 参考
 * Go程序员面试算法宝典
 * https://visualgo.net/zh/sorting
+* https://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F
 * [排序算法时间复杂度、空间复杂度、稳定性比较](https://blog.csdn.net/pange1991/article/details/85460755)
