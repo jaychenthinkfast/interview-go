@@ -14,6 +14,7 @@
 ## 算法
 * [一致性hash算法](algorithm/docs/consistent-hashing.md)
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
+* [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
 ### 排序算法
 * [选择排序](algorithm/docs/selection-sort.md)
 * [快速排序](algorithm/docs/quick-sort.md)
