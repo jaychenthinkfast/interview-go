@@ -18,6 +18,7 @@
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
 * [Disruptor数据结构算法](algorithm/docs/disruptor.md)
 * [鉴权限流数据结构算法](algorithm/docs/auth-limit.md)
+* [短网址系统数据结构算法](algorithm/docs/short-link.md)
 ### 排序算法
 * [选择排序](algorithm/docs/selection-sort.md)
 * [快速排序](algorithm/docs/quick-sort.md)
