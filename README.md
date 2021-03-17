@@ -21,6 +21,7 @@
 * [短网址系统数据结构算法](algorithm/docs/short-link.md)
 * [MySQL数据库索引](algorithm/docs/mysql-index.md)
 * [索引常用的数据结构](algorithm/docs/indexs.md)
+* [推荐系统算法](algorithm/docs/introduction.md)
 ### 排序算法
 * [选择排序](algorithm/docs/selection-sort.md)
 * [快速排序](algorithm/docs/quick-sort.md)
