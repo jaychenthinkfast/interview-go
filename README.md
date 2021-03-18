@@ -14,6 +14,7 @@
 ## 数据结构算法
 * [一致性hash算法](algorithm/docs/consistent-hashing.md)
 * [数组](algorithm/docs/array.md)
+* [链表](algorithm/docs/linkedlist.md)
 ### 实战
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
