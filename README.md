@@ -31,6 +31,7 @@
 ### 排序算法
 * [选择排序](algorithm/docs/selection-sort.md)
 * [快速排序](algorithm/docs/quick-sort.md)
+* [排序](algorithm/docs/sort.md)
 ### 海量数据
 * [从大量url中找相同url](algorithm/docs/find-same-url.md)
 * [如何在大量数据中找出不重复的整数](algorithm/docs/find-unique-integers.md)
