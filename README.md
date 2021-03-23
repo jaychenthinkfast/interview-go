@@ -18,6 +18,7 @@
 * [栈](algorithm/docs/stack.md)
 * [队列](algorithm/docs/queue.md)
 * [递归](algorithm/docs/recursion.md)
+* [二分查找](algorithm/docs/binary-search.md)
 ### 实战
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
