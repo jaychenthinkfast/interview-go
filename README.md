@@ -1,5 +1,6 @@
 # Golang 面试题
 ## 基础
+* [应知应会](base/docs/base.md)
 ### GMP
 * [Go:Goroutine, 系统线程和CPU管理(GMP)](https://mp.weixin.qq.com/s/EF_1yBEhxOMpMVsUuKgfaA)
 * [Go:调度器的任务窃取](https://mp.weixin.qq.com/s/Td3S6hNLJ11RrnJOmtUwmg)
