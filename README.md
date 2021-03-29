@@ -24,6 +24,7 @@
 * [哈希算法](algorithm/docs/hash.md)
 * [二叉树（二叉查找树）](algorithm/docs/binary-tree.md)
 * [红黑树](algorithm/docs/red-black-tree.md)
+* [堆](algorithm/docs/heap.md)
 ### 实战
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
