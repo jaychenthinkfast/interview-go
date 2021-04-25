@@ -27,6 +27,7 @@
 * [堆](algorithm/docs/heap.md)
 * [图](algorithm/docs/graph.md)
 * [字符串匹配](algorithm/docs/string-match.md)
+* [Trie树](algorithm/docs/trie.md)
 ### 实战
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
