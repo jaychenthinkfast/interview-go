@@ -28,6 +28,9 @@
 * [图](algorithm/docs/graph.md)
 * [字符串匹配](algorithm/docs/string-match.md)
 * [Trie树](algorithm/docs/trie.md)
+* [AC自动机，多模式串匹配](algorithm/docs/ac.md)
+### 算法思想
+* [贪心算法]((algorithm/docs/greedy.md)
 ### 实战
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
