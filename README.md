@@ -2,14 +2,14 @@
 ## 基础
 * [查漏补缺](base/docs/base.md)
 ### GMP
-* [Go:Goroutine, 系统线程和CPU管理(GMP)](https://mp.weixin.qq.com/s/EF_1yBEhxOMpMVsUuKgfaA)
-* [Go:调度器的任务窃取](https://mp.weixin.qq.com/s/Td3S6hNLJ11RrnJOmtUwmg)
-* [Go:g0, 特殊的goroutine](https://mp.weixin.qq.com/s/WVDMePT05r8LfTOTbMLUUQ)
+* [Go:Goroutine, 系统线程和CPU管理(GMP)](https://chenjie.info/2566)
+* [Go:调度器的任务窃取](https://chenjie.info/2407)
+* [Go:g0, 特殊的goroutine](https://chenjie.info/2319)
 ### Map
-* [Go: 通过例子学习 Map 的设计 — Part I](https://mp.weixin.qq.com/s/Jf4ydWQAeYg7y8mNFW7OgQ)
-* [Go: 通过代码学习 Map 的设计 — Part II](https://mp.weixin.qq.com/s/qPGo8SJOS3-cX84Oxo731w)
-* [Go: 并发访问 Map — Part III](https://mp.weixin.qq.com/s/QZEuy68AGP0sLMKFBfMUeQ)
-* [sync.Map源码分析](https://mp.weixin.qq.com/s/cmCEZGkKK089onCO0jz5AQ)
+* [Go: 通过例子学习 Map 的设计 — Part I](https://chenjie.info/2511)
+* [Go: 通过代码学习 Map 的设计 — Part II](https://chenjie.info/2529)
+* [Go: 并发访问 Map — Part III](https://chenjie.info/2543)
+* [sync.Map源码分析](https://chenjie.info/2303)
 
 
 ## 数据结构算法
@@ -30,7 +30,7 @@
 * [Trie树](algorithm/docs/trie.md)
 * [AC自动机，多模式串匹配](algorithm/docs/ac.md)
 ### 算法思想
-* [贪心算法]((algorithm/docs/greedy.md)
+* [贪心算法](algorithm/docs/greedy.md)
 ### 实战
 * [Redis常用数据类型数据结构](algorithm/docs/redis.md)
 * [搜索引擎数据结构算法](algorithm/docs/search-engine.md)
@@ -52,6 +52,3 @@
 * [如何在大量的数据中判断一个数是否存在](algorithm/docs/find-a-integer.md)
 * [如何查询最热门的查询串](algorithm/docs/find-popular-query-strings.md)
 * [如何统计不同电话号码的个数](algorithm/docs/count-the-number-of-different-phone-numbers.md)
-
-## 我的公众号
-![陈思敏捷](static/image/weixinss.png)
