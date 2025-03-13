@@ -41,6 +41,7 @@
 * [索引常用的数据结构](algorithm/docs/indexs.md)
 * [推荐系统算法](algorithm/docs/introduction.md)
 * [网页爬虫中的URL去重](algorithm/docs/url-de-duplication.md)
+* [服务限流](scenario/ratelimit.md)
 ### 排序算法
 * [选择排序](algorithm/docs/selection-sort.md)
 * [快速排序](algorithm/docs/quick-sort.md)
