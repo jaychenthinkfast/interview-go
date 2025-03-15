@@ -1,6 +1,8 @@
 # Golang 面试题
 ## 基础
 * [查漏补缺](base/docs/base.md)
+* [逃逸分析](base/docs/escape.md)
+* [闭包](base/docs/closure.md)
 ### GMP
 * [Go:Goroutine, 系统线程和CPU管理(GMP)](https://chenjie.info/2566)
 * [Go:调度器的任务窃取](https://chenjie.info/2407)
