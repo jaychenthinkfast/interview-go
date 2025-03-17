@@ -4,6 +4,9 @@
 * [逃逸分析](base/docs/escape.md)
 * [闭包](base/docs/closure.md)
 * [gc](base/docs/gc.md)
+* [slice代码分析](base/docs/slice1.md)
+* [channel 引起资源泄露](base/docs/channel_resource_leak.md)
+* [协程泄露](base/docs/goroutine_leak.md)
 ### GMP
 * [Go:Goroutine, 系统线程和CPU管理(GMP)](https://chenjie.info/2566)
 * [Go:调度器的任务窃取](https://chenjie.info/2407)
@@ -13,7 +16,10 @@
 * [Go: 通过代码学习 Map 的设计 — Part II](https://chenjie.info/2529)
 * [Go: 并发访问 Map — Part III](https://chenjie.info/2543)
 * [sync.Map源码分析](https://chenjie.info/2303)
-
+## kubernetes
+* [StatefulSet 更新](kubernetes/docs/statefulset.md)
+* [pushgeteway数据清理](kubernetes/docs/pushgeteway.md)
+* [prometheus 推拉](kubernetes/docs/prometheus_pull_push.md)
 
 ## 数据结构算法
 * [一致性hash算法](algorithm/docs/consistent-hashing.md)
