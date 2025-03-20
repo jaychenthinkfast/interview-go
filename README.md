@@ -7,6 +7,7 @@
 * [slice代码分析](base/docs/slice1.md)
 * [channel 引起资源泄露](base/docs/channel_resource_leak.md)
 * [协程泄露](base/docs/goroutine_leak.md)
+* [gorm 0值](base/docs/gorm_zero.md)
 ### GMP
 * [Go:Goroutine, 系统线程和CPU管理(GMP)](https://chenjie.info/2566)
 * [Go:调度器的任务窃取](https://chenjie.info/2407)
